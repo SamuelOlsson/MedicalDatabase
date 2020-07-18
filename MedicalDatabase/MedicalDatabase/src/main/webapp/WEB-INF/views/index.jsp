@@ -9,6 +9,6 @@
     <a href="register">Click here Register</a><br/>
     <a href="login">Click here Login</a><br/>
     <a href="viewPatientData">Click hopefully</a><br/>
-    <a href="viewPatientDataSucess">Click hope</a><br/>
+    
 </body>
 </html>
